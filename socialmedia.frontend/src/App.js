@@ -1,11 +1,10 @@
-import Rutas from './Components/Routes/route';
+import React from 'react';
 
+import RouterBrowser from './Components/Routes/RouterBrowser';
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <Rutas></Rutas>
-      </header>
+    <div>
+      <RouterBrowser></RouterBrowser>
     </div>
   );
 }

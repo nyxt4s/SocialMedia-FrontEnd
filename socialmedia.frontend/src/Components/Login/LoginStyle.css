@@ -1,4 +1,9 @@
 .letterPublicSan {
      font-family: 'Public Sans', sans-serif;
+     color: white;
    
+}
+
+.colorfondo {
+     background-color: black;
 }
